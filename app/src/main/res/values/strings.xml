@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Health &amp; Fitness Tracker</string>
+    <string name="textEmail">Email</string>
+    <string name="textPassword" />
+    <string name="btnLogin">Login</string>
+    <string name="btnSignUp">Sign-Up</string>
+    <string name="Hello">Welcome</string>
+    <string name="btnGoals">btnGoals</string>
+    <string name="stepsimage">stepsimage</string>
+    <string name="weightimage">weightimage</string>
+    <string name="sleepimage">sleepimage</string>
+    <string name="imagesimage">imagesimage</string>
+    <string name="walkimage">walkimage</string>
+    <string name="btnEditProfile">Edit Profile</string>
+    <string name="signupEmail">Email</string>
+    <string name="signupPassword" />
+    <string name="btnRegister">Sign-Up</string>
+    <string name="textDailySteps">Daily Steps :</string>
+    <string name="textTargetWeight">Target Weight  :</string>
+    <string name="textSleepTimes">target Sleep times :</string>
+    <string name="gifImage">GIF</string>
+    <string name="backgroundimage">backgroundimage</string>
+    <string name="newUserAge">Age</string>
+    <string name="newUserFirstname">Firstname</string>
+    <string name="newUserSurname">Surname</string>
+    <string name="newUserHeight">Height</string>
+    <string name="newUserWeight">Weight</string>
+    <string name="confirmNewUser">Confirm</string>
+    <string name="switchMeasurment">Change Mesurement Setting</string>
+    <string name="homeImageClick" />
+    <string name="btnUpdateGoals">Update</string>
+    <string name="textViewProfileName">Name</string>
+    <string name="textViewProfileAge">Age</string>
+    <string name="textViewProfileWeight">Weight</string>
+    <string name="textViewProfileHeight">Height</string>
+    <string name="textViewProfileBMI">BMI</string>
+    <string name="btn_UploadImage">Upload Image</string>
+
+
+</resources>

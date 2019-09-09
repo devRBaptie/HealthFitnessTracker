@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "173188521303",
+    "firebase_url": "https://healthandfitnesstracker-72cee.firebaseio.com",
+    "project_id": "healthandfitnesstracker-72cee",
+    "storage_bucket": "healthandfitnesstracker-72cee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173188521303:android:5a78d9f35da5f5e0",
+        "android_client_info": {
+          "package_name": "me.reece.healthfitnesstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173188521303-6eu39n8d2bdf8lpgqpp4an67gmjd54ht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.reece.healthfitnesstracker",
+            "certificate_hash": "d2cf6cc62992e52b25f7f3e607e8230c068df4b1"
+          }
+        },
+        {
+          "client_id": "173188521303-3esc4vjnv6ib6ee6e028dd2mvgdtt039.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1wQWSJ5iDCb8NSBhXhEqtvhesXUAN_yQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173188521303-3esc4vjnv6ib6ee6e028dd2mvgdtt039.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
